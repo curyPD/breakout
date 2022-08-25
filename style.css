@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+}
+
+#canvas {
+  background-image: linear-gradient(to right bottom, #f06595, #c92a2a);
+}
